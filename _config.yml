@@ -1,0 +1,28 @@
+name: aspect
+favicon: null
+layout_spectrum: 0.2947368349414319
+typography_spectrum: 0.9003305251244456
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.023582321358844638
+  lightness: 0.30186887201853096
+  saturation: 0.6256610278505832
+  rhythmicContrast: 0.6630353892687708
+purpose: []
